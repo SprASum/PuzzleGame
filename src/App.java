@@ -5,9 +5,9 @@ import com.sprasum.util.CodeUtil;
 
 public class App {
     public static void main(String[] args) {
-        //new LoginJFrame();
+        new LoginJFrame();
 
-        new RegisterJFrame();
+        //new RegisterJFrame();
 
         //new GameJFrame();
 
